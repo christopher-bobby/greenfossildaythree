@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/mac/Desktop/SmarterHealth/jumpstart-20231120-exercise/src/main/scala/com/greenfossil/jumpstart/day5/SongDAO.scala:15:137 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m    Select(SONG_TABLE.id, SONG_TABLE.title, SONG_TABLE.artist, SONG_TABLE.year).from(SONG_TABLE).where(whereFn(SONG_TABLE)).executeFirst[[35mSONG[0m][0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                                                                                                         ^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                    Not found: type SONG[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

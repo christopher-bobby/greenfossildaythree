@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/mac/Desktop/SmarterHealth/jumpstart-20231120-exercise/src/test/resources/logback.xml,/Users/mac/Desktop/SmarterHealth/jumpstart-20231120-exercise/target/scala-3.3.0/test-classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/mac/Desktop/SmarterHealth/jumpstart-20231120-exercise/src/test/resources/json/songs.json,/Users/mac/Desktop/SmarterHealth/jumpstart-20231120-exercise/target/scala-3.3.0/test-classes/json/songs.json)[0m
